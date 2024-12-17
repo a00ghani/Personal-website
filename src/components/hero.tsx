@@ -20,7 +20,7 @@ function Hero() {
               {/*right*/}
               <div className="hero-right-div">
               
-                <h1 className="title-hero">I'm Ayesha Abdul Ghani <br></br>
+                <h1 className="title-hero"> I am Ayesha Abdul Ghani <br></br>
                    Front-end Developer</h1>
                 <p className="des-hero">A Web Developer. </p>
                 <button className="hero-btn">HIRE ME</button>

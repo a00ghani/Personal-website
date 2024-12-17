@@ -26,7 +26,7 @@ function About() {
               </div>
 
              </div>
-              {/*right*/}
+              {/*right*/}a00ghani/Personal-website
               <div className="hero-right-div">
               
                 <h1 className="title-hero">About Us</h1>

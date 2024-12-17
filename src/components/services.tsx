@@ -11,7 +11,7 @@ function Services(){
            {/*top div*/}
       <div className="top-div-ser">
           <h2 className="title-ser">My Services</h2>
-          <p className="des-ser">.................................</p>
+          <p className="des-ser">To Customize Websites</p>
      </div>
            {/*bottom div*/}
            <div className="boxes-con">
@@ -27,27 +27,8 @@ function Services(){
              <span>Blog,E-Commerce</span>
              </div>
 
-             <div className="box">
-             <LiaLaptopSolid className="ser-icon"/>
-             <h3>Web Development</h3>
-             <span>Blog,E-Commerce</span>
-             </div>
-
-             <div className="box">
-             <FaLaptopCode className="ser-icon"/>
-             <h3>Web Development</h3>
-             <span>Blog,E-Commerce</span>
-             </div>
-             <div className="box">
-             <FaLaptopCode className="ser-icon"/>
-             <h3>Web Development</h3>
-             <span>Blog,E-Commerce</span>
-             </div>
-             <div className="box">
-             <FaLaptopCode className="ser-icon"/>
-             <h3>Web Development</h3>
-             <span>Blog,E-Commerce</span>
-             </div>
+          
+            
              
      </div>
    </div>
